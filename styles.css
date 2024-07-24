@@ -1,0 +1,50 @@
+.chef {
+    background-image: url(./images/chef.gif);
+}
+
+.backburger {
+    background-image: url(./images/backburger.gif);
+}
+
+.pizza {
+    background-image: url(./images/pizza.gif);
+}
+
+.ramenback {
+    background-image: url(./images/ramen.gif);
+}
+
+h1 {
+    font-family: "Inter", "Helvetica Neue", "Arial", sans-serif;
+    background-color: white;
+}
+
+.title {
+    font-size: 35px;
+    background-color: white;
+}
+
+.title.burger {
+    font-family: 'Courier New', Courier, monospace;    
+}
+
+.pizza {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.ramen{
+    font-family: 'Times New Roman', 'Arial', sans-serif;
+}
+
+p {
+    background-color: white;
+}
+
+li {
+    background-color: yellow;
+}
+
+h2 {
+    background-color: white;
+}
+
